@@ -94,7 +94,7 @@ I envision a future where data-driven solutions enhance our daily lives, making 
 
 <!--  Experience history section starts here  -->
 
-### 💼 &nbsp; Experience History
+### 💼 &nbsp; Training History
 
 | Position                           | Institute                                                          | Duration            | Location           |
 | -----------------------------------| -------------------------------------------------------------------| ------------------- | ------------------ |
@@ -111,9 +111,9 @@ I envision a future where data-driven solutions enhance our daily lives, making 
 ### 👨🏻‍🎓 &nbsp; Education
 
 1. B.Sc. in Computer Science & Engineering  
-    Northern University Of Business And Technology Khulna  
-   Sylhet, Bangladesh.
-2. Advanced Diploma in Software Engineering  
+    Northern University Of Business And Technology Khulna.
+   
+3. Advanced Diploma in Software Engineering  
     Khulna University Of Engineering And Technology, Bangladesh.
 
 <br />
