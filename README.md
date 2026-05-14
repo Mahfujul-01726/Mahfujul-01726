@@ -186,24 +186,66 @@
 
 <!-- ========== EDUCATION SECTION ========== -->
 
-## 🎓 Education
+## 🎓 Complete Educational Journey
 
-<table align="center" width="100%">
+<div align="center">
+
+<table width="100%">
+  <tr align="center" style="background-color: #1a1a2e; color: white;">
+    <th>📚 Exam Type</th>
+    <th>🏫 Institution Name</th>
+    <th>📍 Board/University</th>
+    <th>📅 Passing Year</th>
+    <th>🎯 Status</th>
+  </tr>
   <tr>
-    <td width="50%">
-      <h4>🏫 Bachelor's Degree</h4>
-      <p><strong>B.Sc. in Computer Science & Engineering</strong></p>
-      <p>Northern University of Business and Technology</p>
-      <p>Khulna, Bangladesh</p>
-    </td>
-    <td width="50%">
-      <h4>📜 Advanced Diploma</h4>
-      <p><strong>Advanced Diploma in Software Engineering</strong></p>
-      <p>Khulna University of Engineering and Technology</p>
-      <p>Bangladesh</p>
-    </td>
+    <td><strong>🎓 S.S.C</strong></td>
+    <td>Patkelghata Adarsha High School</td>
+    <td>Jessore Board</td>
+    <td>2018</td>
+    <td>✅ Completed</td>
+  </tr>
+  <tr>
+    <td><strong>🎓 H.S.C</strong></td>
+    <td>Patkelghata H-R College</td>
+    <td>Jessore Board</td>
+    <td>2020</td>
+    <td>✅ Completed</td>
+  </tr>
+  <tr>
+    <td><strong>🏆 Advanced Diploma</strong></td>
+    <td>Khulna University of Engineering and Technology</td>
+    <td>KUET, Bangladesh</td>
+    <td>2020-2022</td>
+    <td>✅ Completed</td>
+  </tr>
+  <tr>
+    <td><strong>🎓 Bachelor's Degree</strong></td>
+    <td>Northern University of Business and Technology</td>
+    <td>NUBT, Khulna</td>
+    <td>2020-Present</td>
+    <td>🔄 Pursuing</td>
+  </tr>
+  <tr>
+    <td><strong>🚀 B.Sc. in CSE</strong></td>
+    <td>Computer Science & Engineering</td>
+    <td>Northern University</td>
+    <td>Expected 2024</td>
+    <td>✅ Expected</td>
   </tr>
 </table>
+
+### 📖 Educational Highlights
+
+| 🎯 Category | 📝 Details |
+|:---|:---|
+| **Schooling** | Secondary & Higher Secondary from Jessore Board (2018-2020) |
+| **Technical Education** | Advanced Diploma in Software Engineering from KUET |
+| **Higher Education** | B.Sc. in Computer Science & Engineering (Northern University) |
+| **Specialization** | Data Science, Machine Learning, AI, Web Development |
+| **Current Status** | Active learner with continuous skill development |
+
+</div>
 
 ---
 
