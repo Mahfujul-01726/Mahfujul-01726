@@ -1,10 +1,8 @@
 <!-- ========== DYNAMIC CAROUSEL BANNER SECTION ========== -->
 <style>
-  @keyframes fadeInOut {
-    0% { opacity: 0; }
-    5% { opacity: 1; }
-    95% { opacity: 1; }
-    100% { opacity: 0; }
+  @keyframes carousel {
+    0%, 6% { opacity: 1; }
+    22%, 100% { opacity: 0; }
   }
   
   .carousel-container {
@@ -19,8 +17,10 @@
   .carousel-item {
     width: 100%;
     opacity: 0;
-    animation: fadeInOut 15s ease-in-out;
-    animation-fill-mode: forwards;
+    position: absolute;
+    top: 0;
+    left: 0;
+    animation: carousel 60s infinite;
   }
   
   .carousel-item:nth-child(1) { animation-delay: 0s; }
@@ -35,81 +35,31 @@
     display: block;
     border-radius: 10px;
   }
-  
-  .carousel-controls {
-    position: absolute;
-    bottom: 15px;
-    left: 50%;
-    transform: translateX(-50%);
-    display: flex;
-    gap: 8px;
-    z-index: 10;
-  }
-  
-  .dot {
-    width: 10px;
-    height: 10px;
-    border-radius: 50%;
-    background-color: rgba(255, 255, 255, 0.5);
-    cursor: pointer;
-    transition: background-color 0.3s;
-  }
-  
-  .dot.active {
-    background-color: rgba(255, 255, 255, 1);
-  }
 </style>
 
 <div align="center" class="carousel-container">
   <!-- Video (plays first) -->
   <div class="carousel-item">
-    <video width="100%" controls muted autoplay style="border-radius: 10px;">
+    <video width="100%" muted autoplay style="border-radius: 10px;">
       <source src="./images/mp_.mp4" type="video/mp4">
-      Your browser does not support the video tag.
     </video>
   </div>
   
   <!-- Image 1 -->
   <div class="carousel-item">
-    <img src="./images/ChatGPT Image May 14, 2026, 03_57_36 PM.png" alt="Portfolio Image 1" style="border-radius: 10px;">
+    <img src="./images/ChatGPT Image May 14, 2026, 03_57_36 PM.png" alt="Portfolio Image 1">
   </div>
   
   <!-- Image 2 -->
   <div class="carousel-item">
-    <img src="./images/Gemini_Generated_Image_quag5nquag5nquag.png" alt="Portfolio Image 2" style="border-radius: 10px;">
+    <img src="./images/Gemini_Generated_Image_quag5nquag5nquag.png" alt="Portfolio Image 2">
   </div>
   
   <!-- Image 3 -->
   <div class="carousel-item">
-    <img src="./images/banner.png" alt="Portfolio Image 3" style="border-radius: 10px;">
-  </div>
-  
-  <!-- Dots/Indicators -->
-  <div class="carousel-controls">
-    <span class="dot active"></span>
-    <span class="dot"></span>
-    <span class="dot"></span>
-    <span class="dot"></span>
+    <img src="./images/banner.png" alt="Portfolio Image 3">
   </div>
 </div>
-
-<script>
-  let currentSlide = 0;
-  const totalSlides = 4;
-  const slideInterval = 15000; // 15 seconds per item
-  
-  function updateDots() {
-    const dots = document.querySelectorAll('.dot');
-    dots.forEach((dot, index) => {
-      dot.classList.toggle('active', index === currentSlide);
-    });
-  }
-  
-  setInterval(() => {
-    currentSlide = (currentSlide + 1) % totalSlides;
-    updateDots();
-  }, slideInterval);
-</script>
 
 <div align="center">
   # 👨‍💻 MD MAHFUJUL KARIM SHEIKH
