@@ -195,7 +195,7 @@
     <th>📚 Exam Type</th>
     <th>🏫 Institution Name</th>
     <th>📍 Board/University</th>
-    <th>📅 Passing Year</th>
+    <th>📅 Duration</th>
     <th>🎯 Status</th>
   </tr>
   <tr>
@@ -216,22 +216,15 @@
     <td><strong>🏆 Advanced Diploma</strong></td>
     <td>Khulna University of Engineering and Technology</td>
     <td>KUET, Bangladesh</td>
-    <td>2020-2022</td>
+    <td>June 2024 - December 2024</td>
     <td>✅ Completed</td>
   </tr>
-  <tr>
-    <td><strong>🎓 Bachelor's Degree</strong></td>
+  <tr style="background-color: #16a34a; color: white;">
+    <td><strong>🎓 B.Sc. in CSE</strong></td>
     <td>Northern University of Business and Technology</td>
     <td>NUBT, Khulna</td>
-    <td>2020-Present</td>
-    <td>🔄 Pursuing</td>
-  </tr>
-  <tr>
-    <td><strong>🚀 B.Sc. in CSE</strong></td>
-    <td>Computer Science & Engineering</td>
-    <td>Northern University</td>
-    <td>Expected 2024</td>
-    <td>✅ Expected</td>
+    <td>22 March 2022 - 15 June 2026</td>
+    <td>🎉 Graduated</td>
   </tr>
 </table>
 
@@ -240,10 +233,10 @@
 | 🎯 Category | 📝 Details |
 |:---|:---|
 | **Schooling** | Secondary & Higher Secondary from Jessore Board (2018-2020) |
-| **Technical Education** | Advanced Diploma in Software Engineering from KUET |
-| **Higher Education** | B.Sc. in Computer Science & Engineering (Northern University) |
+| **Technical Education** | Advanced Diploma in Software Engineering from KUET (June-Dec 2024) |
+| **Higher Education** | B.Sc. in Computer Science & Engineering (22 March 2022 - 15 June 2026) |
 | **Specialization** | Data Science, Machine Learning, AI, Web Development |
-| **Current Status** | Active learner with continuous skill development |
+| **Current Status** | 🎓 Graduate - Ready for Professional Challenges |
 
 </div>
 
