@@ -1,68 +1,10 @@
-<!-- ========== DYNAMIC CAROUSEL BANNER SECTION ========== -->
-<style>
-  @keyframes carousel {
-    0%, 6% { opacity: 1; }
-    22%, 100% { opacity: 0; }
-  }
-  
-  .carousel-container {
-    position: relative;
-    width: 100%;
-    margin-bottom: 20px;
-    border-radius: 10px;
-    overflow: hidden;
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-  }
-  
-  .carousel-item {
-    width: 100%;
-    opacity: 0;
-    position: absolute;
-    top: 0;
-    left: 0;
-    animation: carousel 60s infinite;
-  }
-  
-  .carousel-item:nth-child(1) { animation-delay: 0s; }
-  .carousel-item:nth-child(2) { animation-delay: 15s; }
-  .carousel-item:nth-child(3) { animation-delay: 30s; }
-  .carousel-item:nth-child(4) { animation-delay: 45s; }
-  
-  .carousel-item video,
-  .carousel-item img {
-    width: 100%;
-    height: auto;
-    display: block;
-    border-radius: 10px;
-  }
-</style>
-
-<div align="center" class="carousel-container">
-  <!-- Video (plays first) -->
-  <div class="carousel-item">
-    <video width="100%" muted autoplay style="border-radius: 10px;">
-      <source src="./images/mp_.mp4" type="video/mp4">
-    </video>
-  </div>
-  
-  <!-- Image 1 -->
-  <div class="carousel-item">
-    <img src="./images/ChatGPT Image May 14, 2026, 03_57_36 PM.png" alt="Portfolio Image 1">
-  </div>
-  
-  <!-- Image 2 -->
-  <div class="carousel-item">
-    <img src="./images/Gemini_Generated_Image_quag5nquag5nquag.png" alt="Portfolio Image 2">
-  </div>
-  
-  <!-- Image 3 -->
-  <div class="carousel-item">
-    <img src="./images/banner.png" alt="Portfolio Image 3">
-  </div>
+<!-- ========== DYNAMIC CAROUSEL BANNER ========== -->
+<div align="center">
+  <img src="./images/carousel.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Portfolio Carousel">
 </div>
 
 <div align="center">
-  # 👨‍💻 MD MAHFUJUL KARIM SHEIKH
+    👨‍💻 MD MAHFUJUL KARIM SHEIKH
   
   ### 🚀 Data Scientist | Machine Learning Enthusiast | AI Explorer
   
