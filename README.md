@@ -1,153 +1,270 @@
-<!-- banner image starts here  -->
-<img src="./images/banner.png" width="100%">
-<!-- banner image ends here  -->
+<!-- ========== HEADER SECTION ========== -->
+<div align="center">
+  <img src="./images/banner.png" width="100%" style="border-radius: 10px; margin-bottom: 20px;">
+  
+  # 👨‍💻 MD MAHFUJUL KARIM SHEIKH
+  
+  ### 🚀 Data Scientist | Machine Learning Enthusiast | AI Explorer
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook]
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahfujul-01726)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+  
+  <p>
+    <strong>📍 Khulna, Bangladesh</strong> | 
+    <strong>🎓 Computer Science & Engineering</strong> | 
+    <strong>💼 AI & Data Science Trainer</strong>
+  </p>
+  
+  ---
 
-<h1 align="center">Hi 👋, I'm MD MAHFUJUL KARIM SHEIKH</h1>
+</div>
 
-<h3 align="center">A Data Enthusiast From Bangladesh</h3>
-🏠 &nbsp; Living: Khulna, Bangladesh
+<!-- ========== ABOUT ME SECTION ========== -->
 
-<h3 align="left">Connect with me:</h3>
-
-<!-- Contact me section starts here  -->
-
-[<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />][youtube]
-[<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
-[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
-<br />
-<br />
-
-<!-- Contact me section ends here  -->
-
-<!-- about-me section starts here  -->
-
-### 👨‍🏫 &nbsp; About Me
+## 📌 About Me
 
 <p align="justify">
+  
+  I am a passionate **Data Scientist** and **Machine Learning Enthusiast** dedicated to transforming raw data into actionable insights. With expertise in cutting-edge AI technologies, I specialize in building intelligent systems that solve real-world challenges.
+  
+  > 🎯 **Mission**: *Leverage AI & Data Science to create meaningful impact and drive innovation*
 
-Hello! I'm an avid data enthusiast with a fervor for all things related to machine learning, deep learning, natural language processing, big data, and cutting-edge research. My journey into the world of data science began with a fascination for how data can unravel hidden patterns and solve complex problems.
-
-My Interests:
-Machine Learning: I'm captivated by the ability of algorithms to learn from data and make intelligent decisions. From supervised learning to reinforcement learning, each approach offers unique ways to tackle real-world challenges.
-
-Deep Learning: The intricate neural networks that power deep learning models amaze me. Exploring convolutional networks for image recognition or recurrent networks for sequence prediction has become a thrilling adventure.
-
-Natural Language Processing: Understanding and generating human language is a field that never ceases to excite me. I delve into NLP techniques to create models that can understand text, generate language, and even translate between languages.
-
-Big Data: The sheer volume, velocity, and variety of big data present both challenges and opportunities. I'm passionate about leveraging big data technologies to analyze vast datasets and extract meaningful insights.
-
-Research: My curiosity drives me to stay updated with the latest research papers and breakthroughs in the field. I love experimenting with new ideas and contributing to the ever-evolving landscape of data science.
-
-My Vision:
-I envision a future where data-driven solutions enhance our daily lives, making them more efficient, personalized, and intelligent. Whether it's developing smarter healthcare systems, improving financial forecasting, or advancing natural language understanding, the possibilities are limitless.
 </p>
 
-<br />
-<!-- about-me section ends here  -->
-
-<!-- web related skills section starts here  -->
-
-### 👨🏽‍💻 &nbsp; My Key Skills:
-
-<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.svg" />
-<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.svg" />
-<img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/bootstrap.svg" />
-<img align="left" alt="javascript" title="javascript playlist" width="45" hspace="5" src="./images/js.svg" />
-<img align="left" alt="json" title="json playlist" width="45" hspace="5" src="./images/json.svg" />
-<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.svg" />
-<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />
-<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />
-
-<br/>
-<br/>
-<!-- web related skills section ends here  -->
-<!-- other skills and my videos for computer science section starts here  -->
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-#### Other Skills:
-- Artificial Intelligence
-- Discrte Math
-- Numerical Method
-- Theory of computation]
-- Compiler
-- Networking
-- MS Word
-- MS Excel
-- MS powerpoint
-  <!-- other skills and my videos for computer science section ends here  -->
-
-  <br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfujul-01726&show_icons=true&locale=en&layout=compact" alt="mahfujul-01726" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahfujul-01726&show_icons=true&locale=en" alt="mahfujul-01726" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfujul-01726&" alt="mahfujul-01726" /></p>
-  <!-- latest youtube videos starts here -->
-
-
-<!-- other skills and my videos for computer science section starts here  -->
-
-<!--  Experience history section starts here  -->
-
-### 💼 &nbsp; Training History
-
-| Position                           | Institute                                                          | Duration            | Location           |
-| -----------------------------------| -------------------------------------------------------------------| ------------------- | ------------------ |
-|Trainee(Data Analysis)              | AiQuest Intelligence                                               | Mar 2024 - Oct 2024 | Dhaka(Remote)
-|Trainee(Data Science)               | Khulna University Under Edge Project                               | Apr 2024 - Oct 2024 | Khulna, Bangladesh |
-|Trainee(Machine Learning)           | Khulna University Of Engineering And Technology under Edge Project | Nov 2024 - Running  | Khulna, Bangladesh |
-|Trainee(AI For Immersive Technology)| Khulna University Of Engineering And Technology under BDSET Project| Oct 2024 - Running  | Khulna, Bangladesh |
-
-
-<br />
-<!-- work experience section ends here  -->
-<!-- education section starts here  -->
-
-### 👨🏻‍🎓 &nbsp; Education
-
-1. B.Sc. in Computer Science & Engineering  
-    Northern University Of Business And Technology Khulna.
-   
-3. Advanced Diploma in Software Engineering  
-    Khulna University Of Engineering And Technology, Bangladesh.
-
-<br />
-
-<!-- education section ends here  -->
-
-<!-- my languages section starts here  -->
-
-### Languages:
-
-- 🇧🇩 Bangla : Native
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Intermediate
-  <br />
-
-<!-- my languages section ends here  -->
-
-<!-- my sports and game section starts here  -->
-
-### Sports / Game / Activities / Hobby:
-
-- 🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball
-- 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
-- ✈️ Travelling
-
-<br />
-<!-- my sports and games section ends here  -->
-
-<!-- Honors & awards section starts here  -->
-
-
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h4>🔍 What I Do</h4>
+      <ul align="left">
+        <li>🤖 Machine Learning & Deep Learning</li>
+        <li>🗣️ Natural Language Processing</li>
+        <li>📊 Big Data Analytics</li>
+        <li>🔬 Research & Innovation</li>
+        <li>📈 Data Visualization</li>
+      </ul>
+    </td>
+    <td align="center" width="50%">
+      <h4>🎯 My Passion</h4>
+      <ul align="left">
+        <li>✨ Building Smart Solutions</li>
+        <li>🚀 Exploring New Technologies</li>
+        <li>📚 Continuous Learning</li>
+        <li>🌍 Community Contribution</li>
+        <li>💡 Creative Problem Solving</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-Thanks for going through my Portfolio.
+
+
+<!-- ========== TECHNICAL SKILLS SECTION ========== -->
+
+## 🛠️ Technical Skills
+
+### 📚 **Core Technologies**
+
+#### Data Science & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EEE?style=flat-square&logo=opencv&logoColor=white)
+
+#### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+#### Databases & Backend
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+#### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+#### Programming Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+### 🧠 **Specialized Skills**
+- ✨ Artificial Intelligence & Machine Learning
+- 📊 Data Analysis & Visualization
+- 🔬 Research & Academic Studies
+- 🎯 Problem Solving
+- 💻 Numerical Methods & Discrete Mathematics
+- 📡 Networking & Cybersecurity
+- 🔧 Compiler Design
+- 📝 Theory of Computation
+
+---
+
+
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfujul-01726&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=mahfujul-01726&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahfujul-01726&theme=tokyonight" alt="GitHub Streak" width="100%" />
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=mahfujul-01726&color=blue)
+  
+</div>
+
+---
+
+
+
+
+<!-- other skills and my videos for computer science section starts here  -->
+
+<!-- ========== TRAINING HISTORY SECTION ========== -->
+
+## 💼 Professional Training & Experience
+
+| 🏢 Position | 🏫 Institute | ⏱️ Duration | 📍 Location |
+|:---|:---|:---|:---|
+| **🎓 Trainee (Data Analysis)** | AiQuest Intelligence | Mar 2024 - Oct 2024 | Dhaka (Remote) |
+| **🤖 Trainee (Data Science)** | Khulna University (Edge Project) | Apr 2024 - Oct 2024 | Khulna, Bangladesh |
+| **🧠 Trainee (Machine Learning)** | KUET (Edge Project) | Nov 2024 - Present | Khulna, Bangladesh |
+| **🎨 Trainee (AI for Immersive Tech)** | KUET (BDSET Project) | Oct 2024 - Present | Khulna, Bangladesh |
+
+---
+
+
+<!-- ========== EDUCATION SECTION ========== -->
+
+## 🎓 Education
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%">
+      <h4>🏫 Bachelor's Degree</h4>
+      <p><strong>B.Sc. in Computer Science & Engineering</strong></p>
+      <p>Northern University of Business and Technology</p>
+      <p>Khulna, Bangladesh</p>
+    </td>
+    <td width="50%">
+      <h4>📜 Advanced Diploma</h4>
+      <p><strong>Advanced Diploma in Software Engineering</strong></p>
+      <p>Khulna University of Engineering and Technology</p>
+      <p>Bangladesh</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+
+
+<!-- ========== LANGUAGES SECTION ========== -->
+
+## 🌍 Languages
+
+| Language | Proficiency | Level |
+|:---|:---|:---|
+| 🇧🇩 **Bangla** | Native Speaker | ⭐⭐⭐⭐⭐ |
+| 🏴󠁧󠁢󠁥󠁮󠁧󠁿 **English** | Professional Working | ⭐⭐⭐⭐ |
+
+---
+
+
+
+<!-- ========== INTERESTS & HOBBIES SECTION ========== -->
+
+## 🎯 Interests & Hobbies
+
+<div align="center">
+
+### 🏆 Sports & Games
+![Cricket](https://img.shields.io/badge/🏏-Cricket-blue?style=flat-square)
+![Football](https://img.shields.io/badge/⚽-Football-green?style=flat-square)
+![Badminton](https://img.shields.io/badge/🏸-Badminton-red?style=flat-square)
+![Chess](https://img.shields.io/badge/♟️-Chess-black?style=flat-square)
+![Volleyball](https://img.shields.io/badge/🏐-Volleyball-orange?style=flat-square)
+
+### 🏃 Fitness & Activities
+![Swimming](https://img.shields.io/badge/🏊-Swimming-cyan?style=flat-square)
+![Running](https://img.shields.io/badge/🏃-Running-purple?style=flat-square)
+![Walking](https://img.shields.io/badge/🚶-Walking-brown?style=flat-square)
+![Travelling](https://img.shields.io/badge/✈️-Travelling-yellow?style=flat-square)
+
+</div>
+
+---
+
+
+
+<!-- ========== QUICK LINKS & RESOURCES ========== -->
+
+## 📚 Quick Links & Resources
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-blue?style=for-the-badge)](https://yourportfolio.com)
+[![Resume](https://img.shields.io/badge/📄%20Resume-Download-green?style=for-the-badge)](https://yourresume.com)
+[![Blog](https://img.shields.io/badge/📝%20Blog-Read%20Articles-orange?style=for-the-badge)](https://yourblog.com)
+[![Projects](https://img.shields.io/badge/💻%20Projects-View%20All-red?style=for-the-badge)](https://github.com/mahfujul-01726?tab=repositories)
+
+</div>
+
+---
+
+<!-- ========== FOOTER SECTION ========== -->
+
+## 🚀 Let's Connect & Collaborate!
+
+<div align="center">
+
+I'm always excited to discuss new ideas, projects, and opportunities in the field of **Data Science, Machine Learning, and AI**. Whether you're looking to collaborate on a groundbreaking project, need consultation on data-driven solutions, or just want to chat about AI trends, feel free to reach out!
+
+**📧 [Get In Touch](mailto:your-email@gmail.com)** | **💼 [LinkedIn Profile][linkedin]** | **🐙 [GitHub Profile](https://github.com/mahfujul-01726)**
+
+---
+
+<div align="center">
+
+### ✨ *"Data is the new oil, and Machine Learning is the engine that powers the future!"* ✨
+
+**Made with ❤️ by [MD MAHFUJUL KARIM SHEIKH](https://github.com/mahfujul-01726)**
+
+⭐ If you find my profile interesting, please give it a **star** and **follow** for more amazing content!
+
+Last Updated: **May 2024** | Status: **Always Learning & Growing** 🌱
+
+</div>
+
+---
+
+
 All rights reserved by Md Mahfujul Karim Sheikh @2024
 
 ---
