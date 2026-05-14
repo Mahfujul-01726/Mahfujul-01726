@@ -6,11 +6,11 @@
   
   ### 🚀 Data Scientist | Machine Learning Enthusiast | AI Explorer
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook]
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mahfujul-karim-12b85b202/)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCEx44kb6ub6ywhBYEVUWdSA)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Md.mahfujule.islam.5)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahfujul-01726)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/md.mahfujule.islam.5/)
   
   <p>
     <strong>📍 Khulna, Bangladesh</strong> | 
@@ -225,14 +225,30 @@
 
 <!-- ========== QUICK LINKS & RESOURCES ========== -->
 
-## 📚 Quick Links & Resources
+## � Social Media & Connect With Me
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-blue?style=for-the-badge)](https://yourportfolio.com)
-[![Resume](https://img.shields.io/badge/📄%20Resume-Download-green?style=for-the-badge)](https://yourresume.com)
-[![Blog](https://img.shields.io/badge/📝%20Blog-Read%20Articles-orange?style=for-the-badge)](https://yourblog.com)
-[![Projects](https://img.shields.io/badge/💻%20Projects-View%20All-red?style=for-the-badge)](https://github.com/mahfujul-01726?tab=repositories)
+### 🌐 **Main Platforms**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mahfujul-karim-12b85b202/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahfujul-01726)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-blue?style=for-the-badge)](https://mahfujul-01726.github.io/MyPortfolio/)
+[![Bio Link](https://img.shields.io/badge/Bio%20Link-8B5CF6?style=for-the-badge&logo=linktree&logoColor=white)](https://bio.link/mahfuj735)
+
+### 📺 **Media & Content**
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCEx44kb6ub6ywhBYEVUWdSA)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mahfojulemridul)
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/mahfojulemridul/)
+
+### 💬 **Social & Community**
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Md.mahfujule.islam.5)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/md.mahfujule.islam.5/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/IslamMhafojule)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/977573075707117588/977573075707117590)
+
+### 📞 **Direct Contact**
+[![Phone](https://img.shields.io/badge/Phone-+880%201726%20725791-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801726725791)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahfojulemridul@gmail.com)
 
 </div>
 
@@ -246,7 +262,7 @@
 
 I'm always excited to discuss new ideas, projects, and opportunities in the field of **Data Science, Machine Learning, and AI**. Whether you're looking to collaborate on a groundbreaking project, need consultation on data-driven solutions, or just want to chat about AI trends, feel free to reach out!
 
-**📧 [Get In Touch](mailto:your-email@gmail.com)** | **💼 [LinkedIn Profile][linkedin]** | **🐙 [GitHub Profile](https://github.com/mahfujul-01726)**
+**📧 [Get In Touch](mailto:mahfojulemridul@gmail.com)** | **💼 [LinkedIn Profile](https://www.linkedin.com/in/md-mahfujul-karim-12b85b202/)** | **🐙 [GitHub Profile](https://github.com/mahfujul-01726)** | **🌐 [Visit Portfolio](https://mahfujul-01726.github.io/MyPortfolio/)**
 
 ---
 
