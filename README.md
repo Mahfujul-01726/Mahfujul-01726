@@ -118,25 +118,49 @@
 
 
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics & Analytics
 
 <div align="center">
+
+### 💻 Code Statistics
   
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfujul-01726&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=mahfujul-01726&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahfujul-01726&theme=tokyonight" alt="GitHub Streak" width="100%" />
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=mahfujul-01726&color=blue)
-  
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h4>📚 Top Languages</h4>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfujul-01726&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="border-radius: 10px;" />
+    </td>
+    <td align="center" width="50%">
+      <h4>📈 GitHub Stats</h4>
+      <img src="https://github-readme-stats.vercel.app/api?username=mahfujul-01726&show_icons=true&locale=en&theme=tokyonight&hide_border=true&line_height=27" alt="GitHub Stats" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
+
+### 🔥 Contribution Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahfujul-01726&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" style="border-radius: 10px; margin-top: 10px;" />
+
+### 🏆 GitHub Achievements
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahfujul-01726&theme=tokyonight&hide_border=true" alt="Profile Summary" width="100%" style="border-radius: 10px; margin-top: 10px;" />
+
+### 📊 Repository Stats
+<table width="100%">
+  <tr align="center">
+    <td width="25%">
+      <img src="https://img.shields.io/badge/Public%20Repos-15+-blue?style=for-the-badge" />
+    </td>
+    <td width="25%">
+      <img src="https://img.shields.io/badge/Total%20Stars-120+-yellow?style=for-the-badge" />
+    </td>
+    <td width="25%">
+      <img src="https://img.shields.io/badge/Contributions-500+%2FYear-green?style=for-the-badge" />
+    </td>
+    <td width="25%">
+      <img src="https://komarev.com/ghpvc/?username=mahfujul-01726&color=brightgreen&style=for-the-badge" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
