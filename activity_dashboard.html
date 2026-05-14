@@ -1,0 +1,685 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professional Activity Analytics - Mahfujul Karim Sheikh</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px 20px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            padding: 30px;
+            background-color: #f8f9fa;
+        }
+
+        .stat-card {
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            border-left: 4px solid #667eea;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+        }
+
+        .stat-card .icon {
+            font-size: 2.5em;
+            color: #667eea;
+            margin-bottom: 15px;
+        }
+
+        .stat-card .number {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #333;
+            margin: 10px 0;
+        }
+
+        .stat-card .label {
+            color: #666;
+            font-size: 0.95em;
+            margin-top: 5px;
+        }
+
+        .section {
+            padding: 30px;
+            border-top: 2px solid #f0f0f0;
+        }
+
+        .section-title {
+            font-size: 1.8em;
+            color: #333;
+            margin-bottom: 25px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .section-title i {
+            color: #667eea;
+        }
+
+        .activity-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+
+        .activity-table th {
+            background-color: #f0f0f0;
+            padding: 12px;
+            text-align: left;
+            font-weight: 600;
+            color: #333;
+        }
+
+        .activity-table td {
+            padding: 12px;
+            border-bottom: 1px solid #eee;
+        }
+
+        .activity-table tr:hover {
+            background-color: #f9f9f9;
+        }
+
+        .progress-bar {
+            width: 100%;
+            height: 30px;
+            background-color: #e0e0e0;
+            border-radius: 15px;
+            overflow: hidden;
+            margin: 10px 0;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+            font-size: 0.85em;
+        }
+
+        .language-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+
+        .language-card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+        }
+
+        .language-card .language-name {
+            font-weight: 600;
+            margin-bottom: 8px;
+        }
+
+        .language-card .language-count {
+            font-size: 1.8em;
+            font-weight: bold;
+        }
+
+        .achievement-list {
+            list-style: none;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+
+        .achievement-item {
+            background: #f0f7ff;
+            padding: 15px;
+            border-radius: 8px;
+            border-left: 4px solid #667eea;
+            display: flex;
+            gap: 15px;
+            align-items: center;
+        }
+
+        .achievement-item .achievement-icon {
+            font-size: 1.8em;
+            color: #667eea;
+            flex-shrink: 0;
+        }
+
+        .achievement-item .achievement-text {
+            flex: 1;
+        }
+
+        .achievement-item .achievement-title {
+            font-weight: 600;
+            color: #333;
+        }
+
+        .achievement-item .achievement-desc {
+            color: #666;
+            font-size: 0.9em;
+            margin-top: 3px;
+        }
+
+        .footer {
+            background-color: #f8f9fa;
+            padding: 20px;
+            text-align: center;
+            color: #666;
+            border-top: 1px solid #eee;
+        }
+
+        .chart-container {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+            border: 1px solid #eee;
+        }
+
+        .yearly-chart {
+            display: flex;
+            align-items: flex-end;
+            justify-content: space-around;
+            gap: 10px;
+            height: 300px;
+            margin: 20px 0;
+        }
+
+        .chart-bar {
+            flex: 1;
+            background: linear-gradient(180deg, #667eea 0%, #764ba2 100%);
+            border-radius: 8px 8px 0 0;
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+            align-items: center;
+            padding-bottom: 10px;
+            min-height: 30px;
+        }
+
+        .chart-bar-label {
+            position: absolute;
+            bottom: -25px;
+            font-weight: 600;
+            color: #333;
+        }
+
+        .chart-bar-value {
+            color: white;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 1.8em;
+            }
+
+            .stats-grid {
+                grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+                gap: 15px;
+                padding: 20px;
+            }
+
+            .stat-card {
+                padding: 15px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <h1>👨‍💻 Professional Activity Analytics</h1>
+            <p>Mahfujul Karim Sheikh - Data Scientist & ML Enthusiast</p>
+        </div>
+
+        <!-- Main Stats Grid -->
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="icon"><i class="fas fa-folder"></i></div>
+                <div class="number">78</div>
+                <div class="label">Total Projects</div>
+            </div>
+
+            <div class="stat-card">
+                <div class="icon"><i class="fas fa-code-branch"></i></div>
+                <div class="number">52</div>
+                <div class="label">Original Projects</div>
+            </div>
+
+            <div class="stat-card">
+                <div class="icon"><i class="fas fa-star"></i></div>
+                <div class="number">2</div>
+                <div class="label">Stars Earned</div>
+            </div>
+
+            <div class="stat-card">
+                <div class="icon"><i class="fas fa-users"></i></div>
+                <div class="number">19</div>
+                <div class="label">Followers</div>
+            </div>
+
+            <div class="stat-card">
+                <div class="icon"><i class="fas fa-book"></i></div>
+                <div class="number">2,067</div>
+                <div class="label">Learning Hours</div>
+            </div>
+
+            <div class="stat-card">
+                <div class="icon"><i class="fas fa-code"></i></div>
+                <div class="number">1,378+</div>
+                <div class="label">Total Commits</div>
+            </div>
+        </div>
+
+        <!-- Coding Activity Section -->
+        <div class="section">
+            <h2 class="section-title"><i class="fas fa-chart-line"></i> Daily Coding Activity</h2>
+
+            <table class="activity-table">
+                <thead>
+                    <tr>
+                        <th>📅 Date</th>
+                        <th>📝 Commits</th>
+                        <th>📊 Activity Level</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>2026-05-13</td>
+                        <td>15</td>
+                        <td>
+                            <div class="progress-bar">
+                                <div class="progress-fill" style="width: 100%;">Very High</div>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>2026-05-11</td>
+                        <td>12</td>
+                        <td>
+                            <div class="progress-bar">
+                                <div class="progress-fill" style="width: 80%;">High</div>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>2026-05-10</td>
+                        <td>8</td>
+                        <td>
+                            <div class="progress-bar">
+                                <div class="progress-fill" style="width: 53%;">Medium</div>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>2026-05-12</td>
+                        <td>6</td>
+                        <td>
+                            <div class="progress-bar">
+                                <div class="progress-fill" style="width: 40%;">Moderate</div>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <p><strong>📊 Daily Insights:</strong></p>
+            <ul style="margin-left: 20px; margin-top: 10px;">
+                <li>✓ Average commits per day: <strong>3.77</strong></li>
+                <li>✓ Maximum commits in a day: <strong>15</strong></li>
+                <li>✓ Busiest day: <strong>May 13, 2026</strong></li>
+                <li>✓ Consistency rate: <strong>Highly Consistent</strong></li>
+            </ul>
+        </div>
+
+        <!-- Monthly Performance Section -->
+        <div class="section">
+            <h2 class="section-title"><i class="fas fa-calendar"></i> Monthly Performance</h2>
+
+            <table class="activity-table">
+                <thead>
+                    <tr>
+                        <th>📆 Month</th>
+                        <th>📝 Commits</th>
+                        <th>📊 Performance</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr style="background-color: #ffd700;">
+                        <td><strong>April 2026 (Peak)</strong></td>
+                        <td><strong>234</strong></td>
+                        <td>
+                            <div class="progress-bar">
+                                <div class="progress-fill" style="width: 100%;">Peak Performance 🏆</div>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>March 2026</td>
+                        <td>189</td>
+                        <td>
+                            <div class="progress-bar">
+                                <div class="progress-fill" style="width: 81%;">Excellent</div>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>February 2026</td>
+                        <td>142</td>
+                        <td>
+                            <div class="progress-bar">
+                                <div class="progress-fill" style="width: 61%;">Good</div>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>January 2026</td>
+                        <td>156</td>
+                        <td>
+                            <div class="progress-bar">
+                                <div class="progress-fill" style="width: 67%;">Good</div>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>May 2026 (Current)</td>
+                        <td>98</td>
+                        <td>
+                            <div class="progress-bar">
+                                <div class="progress-fill" style="width: 42%;">In Progress</div>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Yearly Progress Section -->
+        <div class="section">
+            <h2 class="section-title"><i class="fas fa-history"></i> Year-by-Year Progress</h2>
+
+            <div class="chart-container">
+                <div class="yearly-chart">
+                    <div class="chart-bar" style="height: 10%;">
+                        <div class="chart-bar-value">45</div>
+                        <div class="chart-bar-label">2022</div>
+                    </div>
+                    <div class="chart-bar" style="height: 30%;">
+                        <div class="chart-bar-value">234</div>
+                        <div class="chart-bar-label">2023</div>
+                    </div>
+                    <div class="chart-bar" style="height: 50%;">
+                        <div class="chart-bar-value">412</div>
+                        <div class="chart-bar-label">2024</div>
+                    </div>
+                    <div class="chart-bar" style="height: 75%;">
+                        <div class="chart-bar-value">589</div>
+                        <div class="chart-bar-label">2025</div>
+                    </div>
+                    <div class="chart-bar" style="height: 15%;">
+                        <div class="chart-bar-value">98</div>
+                        <div class="chart-bar-label">2026*</div>
+                    </div>
+                </div>
+            </div>
+
+            <p><strong>📈 Growth Analysis:</strong></p>
+            <ul style="margin-left: 20px; margin-top: 10px;">
+                <li>✓ Total commits (all time): <strong>1,378+</strong></li>
+                <li>✓ Year of maximum activity: <strong>2025 (589 commits)</strong></li>
+                <li>✓ Growth rate: <strong>~2x growth per year</strong></li>
+                <li>✓ Trend: <strong>↗️ Consistently Increasing</strong></li>
+            </ul>
+        </div>
+
+        <!-- Languages Section -->
+        <div class="section">
+            <h2 class="section-title"><i class="fas fa-laptop-code"></i> Technology Stack</h2>
+
+            <div class="language-grid">
+                <div class="language-card">
+                    <div class="language-name">🐍 Python</div>
+                    <div class="language-count">28</div>
+                    <div style="font-size: 0.85em;">Projects</div>
+                </div>
+                <div class="language-card">
+                    <div class="language-name">📓 Jupyter</div>
+                    <div class="language-count">25</div>
+                    <div style="font-size: 0.85em;">Notebooks</div>
+                </div>
+                <div class="language-card">
+                    <div class="language-name">🔢 C++</div>
+                    <div class="language-count">7</div>
+                    <div style="font-size: 0.85em;">Projects</div>
+                </div>
+                <div class="language-card">
+                    <div class="language-name">🌐 HTML</div>
+                    <div class="language-count">6</div>
+                    <div style="font-size: 0.85em;">Projects</div>
+                </div>
+                <div class="language-card">
+                    <div class="language-name">🐍 C</div>
+                    <div class="language-count">2</div>
+                    <div style="font-size: 0.85em;">Projects</div>
+                </div>
+                <div class="language-card">
+                    <div class="language-name">☕ Java</div>
+                    <div class="language-count">1</div>
+                    <div style="font-size: 0.85em;">Project</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Achievements Section -->
+        <div class="section">
+            <h2 class="section-title"><i class="fas fa-trophy"></i> Key Achievements & Milestones</h2>
+
+            <ul class="achievement-list">
+                <li class="achievement-item">
+                    <div class="achievement-icon"><i class="fas fa-flag"></i></div>
+                    <div class="achievement-text">
+                        <div class="achievement-title">First Repository</div>
+                        <div class="achievement-desc">June 2022 • Started coding journey</div>
+                    </div>
+                </li>
+                <li class="achievement-item">
+                    <div class="achievement-icon"><i class="fas fa-code-branch"></i></div>
+                    <div class="achievement-text">
+                        <div class="achievement-title">50 Repositories</div>
+                        <div class="achievement-desc">March 2023 • Milestone reached</div>
+                    </div>
+                </li>
+                <li class="achievement-item">
+                    <div class="achievement-icon"><i class="fas fa-star"></i></div>
+                    <div class="achievement-text">
+                        <div class="achievement-title">1,000+ Commits</div>
+                        <div class="achievement-desc">November 2025 • Consistent dedication</div>
+                    </div>
+                </li>
+                <li class="achievement-item">
+                    <div class="achievement-icon"><i class="fas fa-folders"></i></div>
+                    <div class="achievement-text">
+                        <div class="achievement-title">78 Total Repositories</div>
+                        <div class="achievement-desc">May 2026 • Major achievement</div>
+                    </div>
+                </li>
+                <li class="achievement-item">
+                    <div class="achievement-icon"><i class="fas fa-book"></i></div>
+                    <div class="achievement-text">
+                        <div class="achievement-title">2,067+ Learning Hours</div>
+                        <div class="achievement-desc">May 2026 • Professional expertise</div>
+                    </div>
+                </li>
+                <li class="achievement-item">
+                    <div class="achievement-icon"><i class="fas fa-chalkboard-user"></i></div>
+                    <div class="achievement-text">
+                        <div class="achievement-title">AI & Data Science Trainer</div>
+                        <div class="achievement-desc">Present • Mentoring Others</div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+        <!-- Learning Section -->
+        <div class="section">
+            <h2 class="section-title"><i class="fas fa-graduation-cap"></i> Learning & Development</h2>
+
+            <div
+                style="background: linear-gradient(135deg, #667eea20 0%, #764ba220 100%); padding: 25px; border-radius: 10px; margin-top: 20px;">
+                <h3 style="color: #333; margin-bottom: 15px;">📚 Investment in Growth</h3>
+                <p style="color: #666; line-height: 1.8; margin-bottom: 15px;">
+                    <strong>Total Learning Hours: 2,067+</strong> - Equivalent to approximately 6 months of full-time
+                    dedicated learning!
+                </p>
+
+                <div
+                    style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin-top: 20px;">
+                    <div style="background: white; padding: 15px; border-radius: 8px; border-left: 4px solid #667eea;">
+                        <div style="font-weight: 600; color: #667eea; margin-bottom: 5px;">🎯 Focus Areas</div>
+                        <div style="color: #666; font-size: 0.9em;">
+                            ML, AI, Data Science, Python, Deep Learning
+                        </div>
+                    </div>
+                    <div style="background: white; padding: 15px; border-radius: 8px; border-left: 4px solid #667eea;">
+                        <div style="font-weight: 600; color: #667eea; margin-bottom: 5px;">⏱️ Commitment</div>
+                        <div style="color: #666; font-size: 0.9em;">
+                            Avg. 5.7 hours/day learning
+                        </div>
+                    </div>
+                    <div style="background: white; padding: 15px; border-radius: 8px; border-left: 4px solid #667eea;">
+                        <div style="font-weight: 600; color: #667eea; margin-bottom: 5px;">📈 Consistency</div>
+                        <div style="color: #666; font-size: 0.9em;">
+                            Continuous skill development
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Contribution Summary -->
+        <div class="section">
+            <h2 class="section-title"><i class="fas fa-chart-pie"></i> Contribution Summary</h2>
+
+            <table class="activity-table">
+                <thead>
+                    <tr>
+                        <th>📊 Metric</th>
+                        <th>📈 Value</th>
+                        <th>📝 Notes</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Total Repositories</strong></td>
+                        <td>78</td>
+                        <td>All public repositories</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Original Projects</strong></td>
+                        <td>52</td>
+                        <td>From-scratch builds</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Total Commits</strong></td>
+                        <td>1,378+</td>
+                        <td>Last 4 years</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Stars Earned</strong></td>
+                        <td>2</td>
+                        <td>Quality recognition</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Followers</strong></td>
+                        <td>19</td>
+                        <td>Growing community</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Active Projects (3M)</strong></td>
+                        <td>18</td>
+                        <td>Recently updated</td>
+                    </tr>
+                    <tr style="background-color: #f0f0f0; font-weight: bold;">
+                        <td><strong>Learning Hours</strong></td>
+                        <td>2,067+</td>
+                        <td>Professional expertise</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Footer -->
+        <div class="footer">
+            <p>📊 Professional Activity Analytics | Last Updated: May 14, 2026</p>
+            <p style="margin-top: 10px; font-size: 0.9em;">
+                <a href="https://github.com/mahfujul-01726" style="color: #667eea; text-decoration: none;">
+                    <i class="fab fa-github"></i> Visit GitHub Profile
+                </a> |
+                <a href="https://www.linkedin.com/in/md-mahfujul-karim-sheikh-12b85b202/"
+                    style="color: #667eea; text-decoration: none;">
+                    <i class="fab fa-linkedin"></i> Connect on LinkedIn
+                </a>
+            </p>
+        </div>
+    </div>
+</body>
+
+</html>
