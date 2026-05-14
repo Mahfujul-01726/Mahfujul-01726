@@ -213,7 +213,7 @@
     <td>✅ Completed</td>
   </tr>
   <tr>
-    <td><strong>🏆 Advanced Diploma</strong></td>
+    <td><strong>🏆 Advanced Diploma in SWE</strong></td>
     <td>Khulna University of Engineering and Technology</td>
     <td>KUET, Bangladesh</td>
     <td>June 2024 - December 2024</td>
