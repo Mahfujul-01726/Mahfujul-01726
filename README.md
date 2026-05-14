@@ -184,8 +184,8 @@
     </td>
     <td width="25%">
       <h4>💻 Original Work</h4>
-      <h2>52</h2>
-      <p>Projects Built</p>
+      <h2>78</h2>
+      <p>100% Built From Scratch</p>
     </td>
     <td width="25%">
       <h4>⭐ Recognition</h4>
@@ -206,15 +206,15 @@
   <tr align="center">
     <td width="50%">
       <h4>🚀 Daily Insights</h4>
-      <p><strong>Max Commits:</strong> 15 per day</p>
-      <p><strong>Average:</strong> 3.77 commits/day</p>
-      <p><strong>Busiest Day:</strong> 2026-05-13</p>
+      <p><strong>Total Commits:</strong> 984</p>
+      <p><strong>Average:</strong> 2.7 commits/day</p>
+      <p><strong>Consistency:</strong> Steady & Reliable</p>
     </td>
     <td width="50%">
-      <h4>📅 Monthly Performance</h4>
-      <p><strong>Busiest Month:</strong> April 2026</p>
-      <p><strong>Total Commits:</strong> 1,378+ commits</p>
-      <p><strong>Active Projects:</strong> 18 (Last 3 months)</p>
+      <h4>📅 Professional Stats</h4>
+      <p><strong>All Original:</strong> 78/78 Projects</p>
+      <p><strong>Account Age:</strong> 4 Years</p>
+      <p><strong>Active Development:</strong> Continuous</p>
     </td>
   </tr>
 </table>
@@ -225,17 +225,17 @@
   <tr align="center">
     <td width="50%">
       <h4>📚 Learning Hours</h4>
-      <h2>2,067+ Hours</h2>
+      <h2>1,476+ Hours</h2>
       <p>Dedicated to Learning & Development</p>
-      <p><em>Equivalent to ~6 months of full-time work</em></p>
+      <p><em>Equivalent to ~4 months of full-time work</em></p>
     </td>
     <td width="50%">
       <h4>🎯 Learning Focus</h4>
       <ul align="left">
-        <li>✅ Machine Learning Mastery</li>
+        <li>✅ Machine Learning & AI</li>
         <li>✅ Data Science Excellence</li>
-        <li>✅ AI & Deep Learning</li>
-        <li>✅ Python & Data Engineering</li>
+        <li>✅ Python Development</li>
+        <li>✅ Full-Stack Development</li>
       </ul>
     </td>
   </tr>
@@ -245,79 +245,41 @@
 
 | Technology | Projects | Proficiency |
 |:---|:---|:---|
-| 🐍 **Python** | 28 | ⭐⭐⭐⭐⭐ |
 | 📓 **Jupyter Notebook** | 25 | ⭐⭐⭐⭐⭐ |
+| 🐍 **Python** | 8 | ⭐⭐⭐⭐⭐ |
+| 🌐 **HTML** | 7 | ⭐⭐⭐⭐ |
 | 🔢 **C++** | 7 | ⭐⭐⭐⭐ |
-| 🌐 **HTML** | 6 | ⭐⭐⭐⭐ |
 | 🐍 **C** | 2 | ⭐⭐⭐ |
-| ☕ **Java** | 1 | ⭐⭐⭐ |
-| 🎨 **Others** | 9 | ⭐⭐⭐ |
+| 💻 **Others** | 22 | ⭐⭐⭐ |
 
-### 📊 Year-by-Year Progress
-
-```
-2022: ████░░░░░░ 45 commits   (Year 1 - Learning Phase)
-2023: ██████░░░░ 234 commits  (Year 2 - Growth Phase)
-2024: ███████░░░ 412 commits  (Year 3 - Acceleration Phase)
-2025: ████████░░ 589 commits  (Year 4 - Mastery Phase)
-2026: ██░░░░░░░░ 98 commits   (Current Year - In Progress)
-```
-
-### 🏆 Key Achievements & Milestones
+### 🏆 Career Achievements
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; color: white;">
 
-| 🎯 Milestone | 📅 Timeline | 🎉 Status |
+| 🎯 Milestone | 📊 Achievement | ✅ Status |
 |:---|:---|:---|
-| **First Repository** | June 2022 | ✅ Completed |
-| **50 Repositories** | March 2023 | ✅ Completed |
-| **1,000+ Commits** | November 2025 | ✅ Completed |
-| **78 Repositories** | May 2026 | ✅ Achieved |
-| **2,067+ Learning Hours** | May 2026 | ✅ Achieved |
-| **Professional AI Trainer** | Present | 🎯 Active |
+| **Repository Count** | 78 Repositories | ✅ Achieved |
+| **Total Commits** | 984+ Commits | ✅ Achieved |
+| **Learning Hours** | 1,476+ Hours | ✅ Achieved |
+| **Original Projects** | 100% Built | ✅ 78/78 |
+| **Professional Growth** | 4 Years Consistency | ✅ Active |
+| **Community** | 19 Followers | ✅ Growing |
 
 </div>
 
-### 🔄 Contribution Patterns
-
-<table width="100%">
-  <tr align="center">
-    <td width="25%">
-      <h4>📍 Projects with Impact</h4>
-      <h3>23</h3>
-      <p>Repositories with Stars</p>
-    </td>
-    <td width="25%">
-      <h4>🚀 Latest Updates</h4>
-      <h3>18</h3>
-      <p>Active in Last 3 Months</p>
-    </td>
-    <td width="25%">
-      <h4>🎓 Total Experience</h4>
-      <h3>4 Years</h3>
-      <p>Consistent Growth</p>
-    </td>
-    <td width="25%">
-      <h4>💼 Mentorship</h4>
-      <h3>162</h3>
-      <p>Following Great Minds</p>
-    </td>
-  </tr>
-</table>
-
-### 📝 Summary Statistics
+### 📝 Key Statistics Summary
 
 <div style="background-color: #f0f0f0; padding: 15px; border-radius: 8px;">
 
-| Metric | Value | Interpretation |
+| Metric | Value | Meaning |
 |:---|:---|:---|
-| **Commits This Year** | 1,378+ | 3-4 commits daily average |
-| **Average Daily Dedication** | 3.77 hrs | Consistent & Committed |
-| **Peak Productivity** | April 2026 | 234 commits in a month |
-| **Project Diversity** | 11 Languages | Full-stack capability |
-| **Learning Investment** | 2,067 hours | Professional Development |
-| **Community Engagement** | 19 Followers | Growing Network |
-| **Success Rate** | 23 Starred Repos | Quality Work Recognition |
+| **Total Commits** | 984 | Consistent productivity |
+| **Average Daily** | 2.7 commits | Daily engagement |
+| **Original Projects** | 78/78 | 100% from scratch |
+| **Learning Investment** | 1,476 hours | Professional commitment |
+| **Top Skill** | Jupyter/Python | Data Science Expert |
+| **Growth** | 4 Years | Dedicated professional |
+| **Repository Health** | Diverse Tech | Full-Stack Capability |
 
 </div>
 
