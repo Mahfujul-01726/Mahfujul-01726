@@ -31,8 +31,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests urllib3
 
-      # Step 4: Generate fresh statistics
+      # Step 4: Generate fresh statistics with GitHub's default token
       - name: 📊 Generate Statistics
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           echo "🚀 Starting statistics generation..."
           python generate_stats.py
