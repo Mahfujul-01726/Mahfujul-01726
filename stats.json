@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-08-01T02:46:57.687420",
+  "generated_at": "2026-09-01T03:49:34.468070",
   "username": "mahfujul-01726",
   "profile": {
     "name": "MD MAFJUJUL KARIM SHEIKH",
     "bio": "I am a passionate Data Scientist with expertise in machine learning, data analysis, and statistical modeling.",
     "location": "Newmarket, Shibbari, Khulna",
-    "followers": 21,
-    "following": 178,
-    "public_repos": 87
+    "followers": 25,
+    "following": 202,
+    "public_repos": 89
   },
   "activity": {
     "daily": {},
     "monthly": {},
     "yearly": {},
-    "total_commits": 1118
+    "total_commits": 1150
   },
   "projects": {
-    "total_repositories": 87,
-    "original_projects": 87,
+    "total_repositories": 89,
+    "original_projects": 89,
     "forked_projects": 0,
     "active_projects_3m": 0,
     "repos_with_stars": 2
   },
   "contributions": {
     "total_stars": 2,
-    "followers": 21,
+    "followers": 25,
     "public_gists": 0
   },
   "learning": {
-    "estimated_hours": 1677,
-    "commit_based_hours": 1677
+    "estimated_hours": 1725,
+    "commit_based_hours": 1725
   },
   "languages": {
-    "Jupyter Notebook": 28,
-    "Python": 8,
+    "Jupyter Notebook": 27,
+    "Python": 9,
     "C++": 7,
     "HTML": 6,
     "Dart": 4,
@@ -46,8 +46,8 @@
     "Java": 1
   },
   "activity_summary": {
-    "total_commits_last_year": 1118,
-    "avg_commits_per_day": 3.06,
+    "total_commits_last_year": 1150,
+    "avg_commits_per_day": 3.15,
     "max_commits_in_day": 0,
     "busiest_month": "N/A"
   }
