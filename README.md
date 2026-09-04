@@ -1,6 +1,6 @@
 <!-- ========== DYNAMIC CAROUSEL BANNER ========== -->
 <div align="center">
-  <img src="./images/carousel.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Portfolio Carousel">
+  <img src="./images/carousel.webp" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Portfolio Carousel">
 </div>
 
 <div align="center">
