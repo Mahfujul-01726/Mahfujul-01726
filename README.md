@@ -13,7 +13,7 @@
 
   <p>
     <strong>📍 Khulna, Bangladesh</strong> &nbsp;|&nbsp; 
-    <strong>🎓 B.Sc. in CSE &bull; Advanced Diploma (KUET)</strong> &nbsp;|&nbsp; 
+    <strong>🎓 B.Sc. in CSE (NUBTK) &bull; Advanced Diploma (KUET)</strong> &nbsp;|&nbsp; 
     <strong>💼 Software Engineer at AppStick &bull; AI & Data Science Researcher</strong>
   </p>
 
