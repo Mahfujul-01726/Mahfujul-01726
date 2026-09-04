@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T03:49:34.468070",
+  "generated_at": "2026-09-04T11:45:29.339161",
   "username": "mahfujul-01726",
   "profile": {
     "name": "MD MAFJUJUL KARIM SHEIKH",
@@ -13,7 +13,7 @@
     "daily": {},
     "monthly": {},
     "yearly": {},
-    "total_commits": 1150
+    "total_commits": 407
   },
   "projects": {
     "total_repositories": 89,
@@ -28,14 +28,14 @@
     "public_gists": 0
   },
   "learning": {
-    "estimated_hours": 1725,
-    "commit_based_hours": 1725
+    "estimated_hours": 610,
+    "commit_based_hours": 610
   },
   "languages": {
     "Jupyter Notebook": 27,
-    "Python": 9,
+    "Python": 10,
     "C++": 7,
-    "HTML": 6,
+    "HTML": 5,
     "Dart": 4,
     "JavaScript": 2,
     "C": 2,
@@ -46,8 +46,8 @@
     "Java": 1
   },
   "activity_summary": {
-    "total_commits_last_year": 1150,
-    "avg_commits_per_day": 3.15,
+    "total_commits_last_year": 407,
+    "avg_commits_per_day": 1.12,
     "max_commits_in_day": 0,
     "busiest_month": "N/A"
   }

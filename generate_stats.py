@@ -5,6 +5,10 @@ Collects: coding activity, projects completed, learning hours, contributions
 """
 
 import os
+import sys
+import io
+if sys.platform == "win32":
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 import json
 import requests
 from datetime import datetime, timedelta
