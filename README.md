@@ -7,24 +7,24 @@
   <h1>👨‍💻 MD MAHFUJUL KARIM SHEIKH</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=AI+%26+Remote+Sensing+Researcher;Autonomous+Multi-Agent+%26+LLM+Specialist;University+Educator+%26+Technical+Mentor;Full+Stack+%26+Enterprise+Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F5FF&center=true&vCenter=true&width=780&lines=AI+%26+Machine+Learning+Researcher;LLM+%26+Generative+AI+Specialist;Computer+Vision+%26+NLP+Engineer;Tech+Educator+%26+University+Mentor;Full+Stack+%26+Enterprise+Software+Engineer" alt="Typing SVG" />
   </a>
   <br/>
 
   <p>
     <strong>📍 Khulna, Bangladesh</strong> &nbsp;|&nbsp; 
     <strong>🎓 B.Sc. in CSE &bull; Advanced Diploma (KUET)</strong> &nbsp;|&nbsp; 
-    <strong>💼 Principal Investigator &bull; AI & Geospatial Researcher</strong>
+    <strong>💼 AI Researcher &bull; LLM & Computer Vision Specialist</strong>
   </p>
 
   <!-- QUICK SOCIAL BADGES -->
   <p>
+    <a href="https://www.researchgate.net/profile/Md-Mahfujul-Karim-Sheikh" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
+    <a href="https://scholar.google.com/citations?view_op=search_authors&mauthors=Md+Mahfujul+Karim+Sheikh" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
     <a href="https://www.linkedin.com/in/md-mahfujul-karim-sheikh-12b85b202/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://github.com/Mahfujul-01726" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
     <a href="https://mahfujul-01726.github.io/MyPortfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-    <a href="https://www.youtube.com/channel/UCEx44kb6ub6ywhBYEVUWdSA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
     <a href="mailto:mahfojulemridul@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://wa.me/8801726725791" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   </p>
 
 </div>
@@ -36,47 +36,87 @@
 ## 📌 Executive Profile
 
 <p align="justify">
-  I am a passionate <strong>AI & Geospatial Researcher</strong>, <strong>Enterprise Software Engineer</strong>, and <strong>Educator</strong> specializing in <strong>Remote Sensing</strong>, <strong>Autonomous Multi-Agent AI (LLMs)</strong>, and <strong>Computer Vision</strong>. I focus on bridging deep theoretical research in deep learning and vision transformers with production-grade software engineering, institutional automation, and embedded robotics.
+  I am an <strong>AI Researcher</strong>, <strong>Software Engineer</strong>, and <strong>Educator</strong> passionate about engineering intelligent systems at the intersection of <strong>Large Language Models (LLMs)</strong>, <strong>Generative AI</strong>, <strong>Computer Vision (CV)</strong>, and <strong>Natural Language Processing (NLP)</strong>. I combine deep scientific inquiry with robust software craftsmanship—building autonomous multi-agent pipelines, edge vision models, and enterprise-grade institutional automation.
 </p>
 
-> 🎯 **Core Vision**: *Advancing machine intelligence at the frontier of Remote Sensing, Autonomous Agent Swarms, and Scalable Digital Infrastructure.*
+> 🎯 **Core Vision**: *Advancing machine intelligence through foundational research and engineering scalable AI architectures that deliver measurable real-world impact.*
 
 ---
 
-<!-- ========== RESEARCH & ACADEMIC INTERESTS SECTION ========== -->
+<!-- ========== RESEARCH & ACADEMIC COLLABORATIONS ========== -->
 
-## 🔬 Research Focus & Academic Collaborations
+## 🔬 Research Spectrum & Academic Collaboration
 
 <p align="justify">
-  My research investigates the generalization capabilities of deep neural architectures, vision transformers (ViTs), and autonomous agent networks under extreme domain shifts and dynamic real-world environments.
+  My research philosophy centers on exploring how modern deep learning architectures, Vision Transformers, and autonomous agent swarms generalize across complex, dynamic, and unstructured environments.
 </p>
 
-### 🛰️ Active Research Project
-> **"Benchmarking Deep Learning and Vision Transformers for Multi-Platform Land Cover Scene Classification in Bangladesh: An Empirical Study on the MLC-BD Dataset"**  
-> * **Focus:** Evaluating CNN and Vision Transformer architectures on multi-source satellite imagery across heterogeneous mapping platforms (Google Maps, Bing Maps, ArcGIS).
-> * **Challenge Addressed:** Cross-platform radiometric discrepancies, deltaic riverine land ambiguity, and sub-tropical land-use variation in South Asia.
+<!-- RESEARCH PROFILE HUBS -->
+<div align="center">
+  <a href="https://www.researchgate.net/profile/Md-Mahfujul-Karim-Sheikh" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-View_Publications-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Profile"></a>
+  &nbsp;
+  <a href="https://scholar.google.com/citations?view_op=search_authors&mauthors=Md+Mahfujul+Karim+Sheikh" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-Research_Citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar Profile"></a>
+  &nbsp;
+  <a href="mailto:mahfojulemridul@gmail.com?subject=Research%20Collaboration%20Inquiry"><img src="https://img.shields.io/badge/Collaborate-Open_for_Research-16A34A?style=for-the-badge&logo=open-access&logoColor=white" alt="Collaborate on Research"></a>
+</div>
+
+<br/>
 
 <table width="100%">
   <tr>
     <td width="50%" style="vertical-align: top; padding: 15px;">
-      <h4>🌐 Research Domains of Interest</h4>
-      <ul>
-        <li>🛰️ <strong>Geospatial AI & Earth Observation:</strong> Satellite scene classification, multi-platform domain adaptation, remote sensing foundation models.</li>
-        <li>🤖 <strong>Autonomous Agentic Workflows:</strong> Multi-agent coordination (LangGraph, CrewAI, AutoGen), recursive self-critique, dynamic planning.</li>
-        <li>👁️ <strong>Edge Computer Vision:</strong> Real-time detection (YOLOv11), automated biometric attendance, disaster response robotics.</li>
-        <li>🩺 <strong>Domain-Specific NLP & RAG:</strong> Specialized retrieval-augmented clinical systems and knowledge graphs.</li>
-      </ul>
+      <h4>🧠 LLMs, Generative AI & Autonomous Agent Swarms</h4>
+      <p>Investigating multi-agent collaboration frameworks, recursive self-reflection, parameter-efficient fine-tuning (PEFT/LoRA), and stateful graph-based agents (LangGraph, CrewAI, AutoGen) for complex reasoning and workflow automation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/LLMs-Fine--Tuning-8B5CF6?style=flat-square" alt="LLMs">
+        <img src="https://img.shields.io/badge/GenAI-Agents-00F5FF?style=flat-square" alt="GenAI">
+        <img src="https://img.shields.io/badge/Multi--Agent-LangGraph-FF6F00?style=flat-square" alt="Multi-Agent">
+      </p>
     </td>
     <td width="50%" style="vertical-align: top; padding: 15px;">
-      <h4>🤝 Open for Research Collaboration</h4>
-      <p>I actively seek collaborations with academic research labs, professors, industry researchers, and graduate scholars on:</p>
+      <h4>👁️ Advanced Computer Vision & Edge AI</h4>
+      <p>Developing high-accuracy, real-time object detection models (YOLO architectures), multi-class scene understanding, vision biometric authentication, and edge AI vision for autonomous disaster-response robotics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Computer_Vision-YOLO-FF6F00?style=flat-square" alt="CV">
+        <img src="https://img.shields.io/badge/Object_Detection-RealTime-5C3EEE?style=flat-square" alt="Detection">
+        <img src="https://img.shields.io/badge/Edge_AI-Embedded-10B981?style=flat-square" alt="Edge AI">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="vertical-align: top; padding: 15px;">
+      <h4>🗣️ Natural Language Processing & RAG</h4>
+      <p>Engineering semantic dense vector embeddings, contextual knowledge retrieval architectures, domain-adapted clinical medical assistants, and intelligent QA systems for structured and unstructured document analysis.</p>
+      <p>
+        <img src="https://img.shields.io/badge/NLP-Transformers-FFD21E?style=flat-square" alt="NLP">
+        <img src="https://img.shields.io/badge/RAG-Vector_DB-06B6D4?style=flat-square" alt="RAG">
+        <img src="https://img.shields.io/badge/Semantic-Embeddings-3B82F6?style=flat-square" alt="Embeddings">
+      </p>
+    </td>
+    <td width="50%" style="vertical-align: top; padding: 15px;">
+      <h4>🛰️ Applied Deep Learning & Geospatial Intelligence</h4>
+      <p>Evaluating Convolutional Neural Networks and Vision Transformers (ViTs) on heterogeneous multi-platform imagery, addressing domain shifts, and extracting complex geospatial and environmental patterns.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Deep_Learning-PyTorch-EE4C2C?style=flat-square" alt="DL">
+        <img src="https://img.shields.io/badge/Vision_Transformers-ViTs-14B8A6?style=flat-square" alt="ViTs">
+        <img src="https://img.shields.io/badge/Geospatial_AI-Pattern_Mining-6366F1?style=flat-square" alt="Geospatial">
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td style="padding: 15px; background-color: #0f172a; border-radius: 8px; color: white;">
+      <h4>🤝 Open for Academic & Industrial Research Collaboration</h4>
+      <p>I actively welcome collaboration with university professors, research laboratories, industry teams, and fellow researchers worldwide:</p>
       <ul>
-        <li>✅ <strong>Co-authoring Peer-Reviewed Papers:</strong> Remote sensing, ViTs, and agentic workflows.</li>
-        <li>✅ <strong>Joint Benchmark & Dataset Development:</strong> Geospatial and South Asian regional datasets.</li>
-        <li>✅ <strong>Graduate & Research Opportunities:</strong> Open to international research fellowships, MS/PhD collaborations, and funded grants.</li>
+        <li>📑 <strong>Co-authoring Peer-Reviewed Papers:</strong> Collaborative research across GenAI, LLM Agents, Computer Vision, and Applied NLP.</li>
+        <li>🔬 <strong>Benchmark & Open Dataset Development:</strong> Designing reproducible benchmarks and challenging regional/domain-specific datasets.</li>
+        <li>🎓 <strong>Graduate Research & Grants:</strong> Open to international research fellowships, funded MS/PhD research opportunities, and collaborative grants.</li>
       </ul>
-      <p align="center">
-        <a href="mailto:mahfojulemridul@gmail.com?subject=Research%20Collaboration%20Inquiry"><img src="https://img.shields.io/badge/Collaborate%20on%20Research-Connect%20Now-22C55E?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Collaborate"></a>
+      <p align="center" style="margin-top: 10px;">
+        <em>Explore my publications on <a href="https://www.researchgate.net/profile/Md-Mahfujul-Karim-Sheikh" style="color: #38bdf8;"><strong>ResearchGate</strong></a> &bull; Search citations on <a href="https://scholar.google.com/citations?view_op=search_authors&mauthors=Md+Mahfujul+Karim+Sheikh" style="color: #38bdf8;"><strong>Google Scholar</strong></a> &bull; Reach out via <a href="mailto:mahfojulemridul@gmail.com" style="color: #38bdf8;"><strong>Email</strong></a></em>
       </p>
     </td>
   </tr>
@@ -196,7 +236,7 @@
 
 ## 🛠️ Technology Ecosystem & Engineering Stack
 
-### 🧠 **AI, Remote Sensing, Deep Learning & Vision**
+### 🧠 **AI, Deep Learning & Computer Vision**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -354,6 +394,8 @@
 <div align="center">
 
 <p>
+  <a href="https://www.researchgate.net/profile/Md-Mahfujul-Karim-Sheikh"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
+  <a href="https://scholar.google.com/citations?view_op=search_authors&mauthors=Md+Mahfujul+Karim+Sheikh"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://www.linkedin.com/in/md-mahfujul-karim-sheikh-12b85b202/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/Mahfujul-01726"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://mahfujul-01726.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
@@ -372,7 +414,7 @@
 
 <div align="center">
 
-<h3>✨ <em>"Bridging the Frontier of Remote Sensing, Autonomous Agents, and Scalable Digital Systems."</em> ✨</h3>
+<h3>✨ <em>"Architecting the Future of Machine Intelligence, Multi-Agent Systems, and Scalable Software."</em> ✨</h3>
 
 <p>
   <strong>Engineered with ❤️ by <a href="https://github.com/Mahfujul-01726">MD MAHFUJUL KARIM SHEIKH</a></strong>
