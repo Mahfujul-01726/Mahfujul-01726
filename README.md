@@ -7,14 +7,14 @@
   <h1>👨‍💻 MD MAHFUJUL KARIM SHEIKH</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Researcher;Tech+Educator+%26+University+Mentor;Full+Stack+%26+Software+Engineer;LLM+%26+Autonomous+AI+Agent+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=AI+%26+Remote+Sensing+Researcher;Autonomous+Multi-Agent+%26+LLM+Specialist;University+Educator+%26+Technical+Mentor;Full+Stack+%26+Enterprise+Software+Engineer" alt="Typing SVG" />
   </a>
   <br/>
 
   <p>
     <strong>📍 Khulna, Bangladesh</strong> &nbsp;|&nbsp; 
     <strong>🎓 B.Sc. in CSE &bull; Advanced Diploma (KUET)</strong> &nbsp;|&nbsp; 
-    <strong>💼 AI & Data Science Researcher & Trainer</strong>
+    <strong>💼 Principal Investigator &bull; AI & Geospatial Researcher</strong>
   </p>
 
   <!-- QUICK SOCIAL BADGES -->
@@ -33,35 +33,51 @@
 
 <!-- ========== ABOUT ME SECTION ========== -->
 
-## 📌 About Me
+## 📌 Executive Profile
 
 <p align="justify">
-  I am a passionate <strong>AI & Data Science Researcher</strong>, <strong>Software Engineer</strong>, and <strong>Educator</strong> dedicated to architecting intelligent systems, advancing computer vision, and building autonomous multi-agent pipelines. With hands-on engineering experience spanning deep learning, embedded robotics, and cross-platform application development, I bridge the gap between cutting-edge AI research and real-world software products.
+  I am a passionate <strong>AI & Geospatial Researcher</strong>, <strong>Enterprise Software Engineer</strong>, and <strong>Educator</strong> specializing in <strong>Remote Sensing</strong>, <strong>Autonomous Multi-Agent AI (LLMs)</strong>, and <strong>Computer Vision</strong>. I focus on bridging deep theoretical research in deep learning and vision transformers with production-grade software engineering, institutional automation, and embedded robotics.
 </p>
 
-> 🎯 **Mission**: *Innovate at the intersection of AI, Robotics, and Scalable Software to engineer solutions that create tangible human impact.*
+> 🎯 **Core Vision**: *Advancing machine intelligence at the frontier of Remote Sensing, Autonomous Agent Swarms, and Scalable Digital Infrastructure.*
 
-<table align="center" width="100%">
+---
+
+<!-- ========== RESEARCH & ACADEMIC INTERESTS SECTION ========== -->
+
+## 🔬 Research Focus & Academic Collaborations
+
+<p align="justify">
+  My research investigates the generalization capabilities of deep neural architectures, vision transformers (ViTs), and autonomous agent networks under extreme domain shifts and dynamic real-world environments.
+</p>
+
+### 🛰️ Active Research Project
+> **"Benchmarking Deep Learning and Vision Transformers for Multi-Platform Land Cover Scene Classification in Bangladesh: An Empirical Study on the MLC-BD Dataset"**  
+> * **Focus:** Evaluating CNN and Vision Transformer architectures on multi-source satellite imagery across heterogeneous mapping platforms (Google Maps, Bing Maps, ArcGIS).
+> * **Challenge Addressed:** Cross-platform radiometric discrepancies, deltaic riverine land ambiguity, and sub-tropical land-use variation in South Asia.
+
+<table width="100%">
   <tr>
-    <td align="left" width="50%" style="vertical-align: top; padding: 15px;">
-      <h4>🔍 Core Expertise</h4>
+    <td width="50%" style="vertical-align: top; padding: 15px;">
+      <h4>🌐 Research Domains of Interest</h4>
       <ul>
-        <li>🤖 <strong>Agentic AI & LLM Systems:</strong> Multi-agent architectures (LangChain, AutoGen, OpenRouter)</li>
-        <li>👁️ <strong>Computer Vision:</strong> Real-time object detection (YOLOv11), segmentation, remote sensing</li>
-        <li>📊 <strong>Data Science & Analytics:</strong> Predictive modeling, statistical learning, Big Data pipelines</li>
-        <li>🔬 <strong>AI Research:</strong> Deep neural networks, transformers, autonomous robotics</li>
-        <li>💻 <strong>Full-Stack & Mobile:</strong> Flutter, Dart, Python, TypeScript, REST APIs</li>
+        <li>🛰️ <strong>Geospatial AI & Earth Observation:</strong> Satellite scene classification, multi-platform domain adaptation, remote sensing foundation models.</li>
+        <li>🤖 <strong>Autonomous Agentic Workflows:</strong> Multi-agent coordination (LangGraph, CrewAI, AutoGen), recursive self-critique, dynamic planning.</li>
+        <li>👁️ <strong>Edge Computer Vision:</strong> Real-time detection (YOLOv11), automated biometric attendance, disaster response robotics.</li>
+        <li>🩺 <strong>Domain-Specific NLP & RAG:</strong> Specialized retrieval-augmented clinical systems and knowledge graphs.</li>
       </ul>
     </td>
-    <td align="left" width="50%" style="vertical-align: top; padding: 15px;">
-      <h4>🎯 Professional Focus</h4>
+    <td width="50%" style="vertical-align: top; padding: 15px;">
+      <h4>🤝 Open for Research Collaboration</h4>
+      <p>I actively seek collaborations with academic research labs, professors, industry researchers, and graduate scholars on:</p>
       <ul>
-        <li>✨ <strong>End-to-End MLOps:</strong> Designing reproducible AI pipelines from research to production</li>
-        <li>🚀 <strong>Robotics & IoT:</strong> Computer-vision powered autonomous systems</li>
-        <li>👨‍🏫 <strong>Tech Mentorship:</strong> Training students & developers at university level (KUET BDSET/EDGE)</li>
-        <li>🌐 <strong>Open-Source Contribution:</strong> Building open AI curriculums and research systems</li>
-        <li>💡 <strong>Continuous Innovation:</strong> Exploring emerging generative models and agent frameworks</li>
+        <li>✅ <strong>Co-authoring Peer-Reviewed Papers:</strong> Remote sensing, ViTs, and agentic workflows.</li>
+        <li>✅ <strong>Joint Benchmark & Dataset Development:</strong> Geospatial and South Asian regional datasets.</li>
+        <li>✅ <strong>Graduate & Research Opportunities:</strong> Open to international research fellowships, MS/PhD collaborations, and funded grants.</li>
       </ul>
+      <p align="center">
+        <a href="mailto:mahfojulemridul@gmail.com?subject=Research%20Collaboration%20Inquiry"><img src="https://img.shields.io/badge/Collaborate%20on%20Research-Connect%20Now-22C55E?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Collaborate"></a>
+      </p>
     </td>
   </tr>
 </table>
@@ -70,8 +86,30 @@
 
 <!-- ========== FEATURED PROJECTS SHOWCASE ========== -->
 
-## 🌟 Featured Projects & Research Showcase
+## 🌟 Featured Engineering & Research Projects
 
+### 🏛️ Institutional & Enterprise Automation
+<table width="100%">
+  <tr>
+    <td width="100%" style="padding: 15px;">
+      <h3>🏫 <a href="https://github.com/Mahfujul-01726/nubtk_automation">NUBTK Automation System — Complete University ERP Ecosystem</a></h3>
+      <p>A mission-critical institutional automation ecosystem engineering the entire academic lifecycle for Northern University of Business & Technology Khulna. Consists of integrated cross-platform modules:</p>
+      <ul>
+        <li>🌐 <strong>University Web Portal & Admission Engine:</strong> End-to-end applicant tracking, automated student intake, fee settlement, and online document processing.</li>
+        <li>💻 <strong>Institutional Admin Panel:</strong> Comprehensive management console for academic departments, course scheduling, grade management, and faculty records.</li>
+        <li>📱 <strong>Student & Faculty Mobile Applications:</strong> Native cross-platform apps providing instant schedule feeds, notice boards, attendance records, and student portals.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Enterprise_Automation-0A66C2?style=flat-square" alt="Enterprise">
+        <img src="https://img.shields.io/badge/Flutter_&_Dart-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/Full--Stack%20Ecosystem-16A34A?style=flat-square" alt="Full Stack">
+      </p>
+    </td>
+  </tr>
+</table>
+
+### 🤖 Autonomous Multi-Agent AI & LLM Systems
 <table width="100%">
   <tr>
     <td width="50%" style="vertical-align: top; padding: 15px;">
@@ -85,47 +123,68 @@
       </p>
     </td>
     <td width="50%" style="vertical-align: top; padding: 15px;">
+      <h3>🧠 <a href="https://github.com/Mahfujul-01726/Agent-AI-with-LangGraph">Agentic AI Workflows with LangGraph & CrewAI</a></h3>
+      <p>Advanced cyclical graph-based multi-agent coordination systems utilizing LangGraph, AutoGen, and CrewAI for autonomous task execution, code analysis, and blog writing pipelines.</p>
+      <p>
+        <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square" alt="LangGraph">
+        <img src="https://img.shields.io/badge/CrewAI-8B5CF6?style=flat-square" alt="CrewAI">
+        <img src="https://img.shields.io/badge/Microsoft_AutoGen-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="AutoGen">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="padding: 15px;">
+      <h3>🩺 <a href="https://github.com/Mahfujul-01726/Medical-Chatbot-Application">Medical Healthcare Chatbot & RAG Architecture</a></h3>
+      <p>Domain-adapted conversational AI assistant built for clinical information retrieval. Features document chunking, semantic vector embeddings, and contextual question-answering for healthcare queries.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Healthcare_AI-EA4335?style=flat-square" alt="Healthcare">
+        <img src="https://img.shields.io/badge/RAG_Pipeline-06B6D4?style=flat-square" alt="RAG">
+        <img src="https://img.shields.io/badge/Vector_DB-Pinned-10B981?style=flat-square" alt="Vector DB">
+      </p>
+    </td>
+  </tr>
+</table>
+
+### 🚒 Robotics, Vision & Smart Edge Systems
+<table width="100%">
+  <tr>
+    <td width="50%" style="vertical-align: top; padding: 15px;">
       <h3>🚒 <a href="https://github.com/Mahfujul-01726/Fire-Fighter-Robot-Project-Embeded-System-">Autonomous Firefighter Robot</a></h3>
       <p>An autonomous embedded robotics system with integrated Computer Vision and sensor arrays engineered to navigate hazardous zones and extinguish fires with minimal human intervention.</p>
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
         <img src="https://img.shields.io/badge/Computer_Vision-5C3EEE?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision">
-        <img src="https://img.shields.io/badge/Embedded_Systems-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Embedded">
+        <img src="https://img.shields.io/badge/Embedded_Hardware-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Embedded">
         <img src="https://img.shields.io/badge/Robotics-Autonomous-FF6B6B?style=flat-square" alt="Robotics">
+      </p>
+    </td>
+    <td width="50%" style="vertical-align: top; padding: 15px;">
+      <h3>👁️ <a href="https://github.com/Mahfujul-01726/AutoAttendance">AutoAttendance — Vision Biometric System</a></h3>
+      <p>Automated attendance logging solution leveraging real-time facial feature extraction and computer vision pipelines to eliminate manual attendance tracking in institutional classrooms.</p>
+      <p>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EEE?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
+        <img src="https://img.shields.io/badge/YOLO11-00FFFF?style=flat-square&logoColor=black" alt="YOLO11">
+        <img src="https://img.shields.io/badge/Biometrics-Vision-059669?style=flat-square" alt="Biometrics">
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" style="vertical-align: top; padding: 15px;">
       <h3>🤝 <a href="https://github.com/Mahfujul-01726/Charity-Website">Charity Ecosystem (Mobile + Web + Admin)</a></h3>
-      <p>A full-stack multi-platform donation and volunteer ecosystem featuring a Flutter mobile client, a TypeScript admin portal, and a responsive web application.</p>
+      <p>A multi-tier platform for philanthropic operations featuring a Flutter mobile client, a TypeScript admin portal, and a responsive web application.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
       </p>
     </td>
     <td width="50%" style="vertical-align: top; padding: 15px;">
-      <h3>👁️ <a href="https://github.com/Mahfujul-01726/YOLO11_model">YOLOv11 Computer Vision & Detection</a></h3>
-      <p>State-of-the-art vision modeling implementing YOLOv11 for ultra-fast object detection, bounding-box tracking, and edge device performance optimization.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-        <img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=flat-square&logoColor=black" alt="YOLOv11">
-        <img src="https://img.shields.io/badge/OpenCV-5C3EEE?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
-        <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square" alt="Deep Learning">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="padding: 15px;">
-      <h3>🎓 <a href="https://github.com/Mahfujul-01726/Generative-AI-Full-Course">Generative AI & Agentic AI Master Curriculum</a></h3>
-      <p>Comprehensive open-source courses and research notebooks covering Transformers, LLM fine-tuning, Microsoft AutoGen, LangChain workflows, and deep neural architectures designed for students and practitioners.</p>
+      <h3>🎓 <a href="https://github.com/Mahfujul-01726/Generative-AI-Full-Course">Generative AI Master Curriculum</a></h3>
+      <p>Comprehensive open-access courses covering Transformer architectures, LLM fine-tuning, Agentic frameworks, and practical MLOps pipelines.</p>
       <p>
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
-        <img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=flat-square" alt="GenAI">
-        <img src="https://img.shields.io/badge/AutoGen-0078D4?style=flat-square" alt="AutoGen">
-        <img src="https://img.shields.io/badge/Educational_Curriculum-16A34A?style=flat-square" alt="Education">
+        <img src="https://img.shields.io/badge/Education-16A34A?style=flat-square" alt="Education">
+        <img src="https://img.shields.io/badge/GenAI-8B5CF6?style=flat-square" alt="GenAI">
       </p>
     </td>
   </tr>
@@ -135,9 +194,9 @@
 
 <!-- ========== TECHNICAL SKILLS SECTION ========== -->
 
-## 🛠️ Technical Skills & Technology Ecosystem
+## 🛠️ Technology Ecosystem & Engineering Stack
 
-### 🧠 **Artificial Intelligence, Deep Learning & Vision**
+### 🧠 **AI, Remote Sensing, Deep Learning & Vision**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -146,10 +205,12 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-### 🤖 **LLMs, Generative AI & Multi-Agent Systems**
+### 🤖 **LLMs, Generative AI & Autonomous Multi-Agent Swarms**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-8B5CF6?style=flat-square)
 ![AutoGen](https://img.shields.io/badge/Microsoft_AutoGen-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat-square)
 ![Vector DBs](https://img.shields.io/badge/Vector_Embeddings-06B6D4?style=flat-square)
@@ -231,7 +292,7 @@
 
 <!-- ========== PROFESSIONAL TRAINING & EXPERIENCE ========== -->
 
-## 💼 Professional Experience & Training
+## 💼 Professional Experience & Academic Mentorship
 
 | 🏢 Role / Program | 🏫 Organization & Institution | ⏱️ Duration | 📍 Location |
 |:---|:---|:---|:---|
@@ -288,7 +349,7 @@
 
 <!-- ========== QUICK LINKS & CONNECT ========== -->
 
-## 🌐 Connect With Me & Social Hub
+## 🌐 Connect & Collaborate
 
 <div align="center">
 
@@ -311,18 +372,18 @@
 
 <div align="center">
 
-<h3>✨ <em>"Data is the foundation, AI is the intelligence, and Software is the bridge to the future."</em> ✨</h3>
+<h3>✨ <em>"Bridging the Frontier of Remote Sensing, Autonomous Agents, and Scalable Digital Systems."</em> ✨</h3>
 
 <p>
   <strong>Engineered with ❤️ by <a href="https://github.com/Mahfujul-01726">MD MAHFUJUL KARIM SHEIKH</a></strong>
 </p>
 
 <p>
-  ⭐ If you find my research and projects inspiring, consider giving a star and following!
+  ⭐ If you find my research and open-source systems impactful, consider starring and collaborating!
 </p>
 
 <p>
-  <em>Last Updated: <strong>September 2026</strong> &nbsp;|&nbsp; Status: <strong>Always Innovating & Growing</strong> 🌱</em>
+  <em>Last Updated: <strong>September 2026</strong> &nbsp;|&nbsp; Status: <strong>Actively Researching & Engineering</strong> 🚀</em>
 </p>
 
 <p>
