@@ -14,7 +14,7 @@
   <p>
     <strong>📍 Khulna, Bangladesh</strong> &nbsp;|&nbsp; 
     <strong>🎓 B.Sc. in CSE &bull; Advanced Diploma (KUET)</strong> &nbsp;|&nbsp; 
-    <strong>💼 AI & Data Science Researcher & Trainer</strong>
+    <strong>💼 Software Engineer at AppStick &bull; AI & Data Science Researcher</strong>
   </p>
 
   <!-- QUICK SOCIAL BADGES -->
@@ -336,6 +336,7 @@
 
 | 🏢 Role / Program | 🏫 Organization & Institution | ⏱️ Duration | 📍 Location |
 |:---|:---|:---|:---|
+| **💻 Software Engineer** | **AppStick** | June 2, 2024 - Present | Khulna, Bangladesh |
 | **🤖 Trainee & Project Lead (AI for Immersive Tech)** | KUET (BDSET Project) | Oct 2024 - Present | Khulna, Bangladesh |
 | **🧠 Trainee (Machine Learning)** | KUET (Edge Project) | Nov 2024 - Present | Khulna, Bangladesh |
 | **📊 Trainee (Data Science)** | Khulna University (Edge Project) | Apr 2024 - Oct 2024 | Khulna, Bangladesh |
