@@ -7,14 +7,14 @@
   <h1>👨‍💻 MD MAHFUJUL KARIM SHEIKH</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F5FF&center=true&vCenter=true&width=780&lines=AI+%26+Machine+Learning+Researcher;LLM+%26+Generative+AI+Specialist;Computer+Vision+%26+NLP+Engineer;Tech+Educator+%26+University+Mentor;Full+Stack+%26+Enterprise+Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Researcher;Tech+Educator+%26+University+Mentor;Full+Stack+%26+Software+Engineer;LLM+%26+Autonomous+AI+Agent+Specialist" alt="Typing SVG" />
   </a>
   <br/>
 
   <p>
     <strong>📍 Khulna, Bangladesh</strong> &nbsp;|&nbsp; 
     <strong>🎓 B.Sc. in CSE &bull; Advanced Diploma (KUET)</strong> &nbsp;|&nbsp; 
-    <strong>💼 AI Researcher &bull; LLM & Computer Vision Specialist</strong>
+    <strong>💼 AI & Data Science Researcher & Trainer</strong>
   </p>
 
   <!-- QUICK SOCIAL BADGES -->
