@@ -1,6 +1,6 @@
 <!-- ========== DYNAMIC CINEMATIC BANNER ========== -->
 <div align="center">
-  <img src="./images/carousel.webp" width="100%" style="border-radius: 12px; margin-bottom: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" alt="Portfolio Carousel">
+  <img src="https://res.cloudinary.com/tynmfvbo/image/upload/v1789197430/profile/carousel.webp" width="100%" style="border-radius: 12px; margin-bottom: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" alt="Portfolio Carousel">
 </div>
 
 <div align="center">
